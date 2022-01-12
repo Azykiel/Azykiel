@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Azykiel
-- 👀 I’m interested in all things tech
-- 🌱 I’m currently learning to code using html, javascript, python
-- 💞️ I’m looking to collaborate on anything code learning related
+- 👀 Developer Noob -  I’m currently learning to code using html, javascript, python
+- 💞️ Happy to collaborate on projects
 - 📫 How to reach me @Azykiel
 
 <!---
